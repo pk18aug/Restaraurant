@@ -1,0 +1,47 @@
+{
+  "Login":[
+    {
+     "name":"pankaj",
+     "password":"kataria"
+
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "lapino",
+      "address": "noida",
+      "rating": "4"
+    },
+    {
+      "name": "dokla wala",
+      "address": "ghaziabad",
+      "rating": "3",
+      "id": 3
+    },
+    {
+      "name": "baari cafe",
+      "address": "noida",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "name": "heera ",
+      "address": "noida",
+      "rating": "3",
+      "id": 7
+    },
+    {
+      "name": "gpal56",
+      "address": "delhi",
+      "rating": "4",
+      "id": 11
+    },
+    {
+      "name": "raju dhaba",
+      "address": "mathura",
+      "rating": "4",
+      "id": 12
+    }
+  ]
+}
